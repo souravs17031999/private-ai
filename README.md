@@ -1,4 +1,4 @@
-# private-ai
+# SECURE AND PRIVATE AI SCHOLARSHIP CHALLENGE
 
 Notebooks for Udacity's Secure and Private AI course.
 
@@ -14,3 +14,4 @@ conda install pytorch torchvision -c pytorch
 pip install syft
 ```
 
+SOME OF THE NOTEBOOKS ARE OF ORIGINAL UDACITY'S COURSE AND OTHERS ARE MADE BY ME DURING LEARNING OF THE COURSE.
